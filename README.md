@@ -1,4 +1,14 @@
 # 🚆 Railway Reservation Analyzer
+## Project Details
+- **Project Number:** 61
+- **Language:** Python 3
+- **Developer:** Mayank Dongre
+- **ERP:** RU-26-02389
+
+## Project Mentor
+- **Mentored by:** Mr. Satyaprakash Sethy
+- **Github:** @SATYAPRAKASHSETHY
+- **Role:** Python Mentor/ Technical guide
 
 ## 📌 Project Description
 Railway Reservation Analyzer is a Python-based data analysis project that analyzes railway booking records using a CSV file. It helps calculate train-wise bookings, confirmed ticket revenue, and ticket status summaries.
